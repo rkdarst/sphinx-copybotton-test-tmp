@@ -3,6 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. important::
+
+   ::
+
+      text block
+      text block
+      text block
+
+::
+
+   text block
+   text block
+   text block
+
+
 Welcome to test's documentation!
 ================================
 
@@ -10,6 +25,9 @@ Welcome to test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   other
+   subdir/index
+   subdir/other
 
 
 Indices and tables
